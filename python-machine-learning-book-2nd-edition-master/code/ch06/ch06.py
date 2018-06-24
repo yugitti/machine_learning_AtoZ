@@ -24,6 +24,7 @@ from sklearn.metrics import roc_curve, auc
 from scipy import interp
 from sklearn.utils import resample
 
+
 # *Python Machine Learning 2nd Edition* by [Sebastian Raschka](https://sebastianraschka.com), Packt Publishing Ltd. 2017
 # 
 # Code Repository: https://github.com/rasbt/python-machine-learning-book-2nd-edition
